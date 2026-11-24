@@ -1,0 +1,6 @@
+Datu kopa: SECOM 
+Faili: secom.data, secom_labels.data (ņemti no UCI lejupielādētā arhīva)
+Saite: https://archive.ics.uci.edu/dataset/179/secom
+Lejupielādes datums: 23.11.2026
+Licence: CC BY 4.0
+Autori: M. McCann, A. Johnston (2008), DOI: 10.24432/C54305

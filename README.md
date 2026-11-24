@@ -1,8 +1,8 @@
 # Modelis no sistēmas datiem
 Projekts izmanto SECOM datus no pusvadītāju ražošanas (590 sensoru signāli katram izstrādājumam) un prognozē,
-vai izstrādājums izturēs gala testu (`brakis` = 0/1).
-`tirisana.py` sagatavo datus, `modelis.py` apmāca nejaušo mežu un salīdzina precizitāti ar bāzes līniju.
-Rezultātu skaidrojums ir failā `rezultati.md`.
+vai izstrādājums izturēs gala testu (brakis = 0/1).
+tirisana.py sagatavo datus, modelis.py apmāca nejaušo mežu un salīdzina precizitāti ar bāzes līniju.
+Rezultātu skaidrojums ir failā rezultati.md.
 
 ## Palaišana
 pip install pandas scikit-learn
